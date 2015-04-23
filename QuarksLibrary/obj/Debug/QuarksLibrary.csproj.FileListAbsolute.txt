@@ -1,0 +1,14 @@
+C:\Users\Anuradha Sanjeewa\Documents\Vacation Projects\QuarksLibrary\QuarksLibrary\bin\Debug\QuarksLibrary.exe.config
+C:\Users\Anuradha Sanjeewa\Documents\Vacation Projects\QuarksLibrary\QuarksLibrary\bin\Debug\QuarksLibrary.exe
+C:\Users\Anuradha Sanjeewa\Documents\Vacation Projects\QuarksLibrary\QuarksLibrary\bin\Debug\QuarksLibrary.pdb
+C:\Users\Anuradha Sanjeewa\Documents\Vacation Projects\QuarksLibrary\QuarksLibrary\obj\Debug\QuarksLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Anuradha Sanjeewa\Documents\Vacation Projects\QuarksLibrary\QuarksLibrary\obj\Debug\QuarksLibrary.Properties.Resources.resources
+C:\Users\Anuradha Sanjeewa\Documents\Vacation Projects\QuarksLibrary\QuarksLibrary\obj\Debug\QuarksLibrary.csproj.GenerateResource.Cache
+C:\Users\Anuradha Sanjeewa\Documents\Vacation Projects\QuarksLibrary\QuarksLibrary\obj\Debug\QuarksLibrary.exe
+C:\Users\Anuradha Sanjeewa\Documents\Vacation Projects\QuarksLibrary\QuarksLibrary\obj\Debug\QuarksLibrary.pdb
+C:\Users\Anuradha Sanjeewa\Documents\Vacation Projects\QuarksLibrary\QuarksLibrary\obj\Debug\QuarksLibrary.QuarksMain.resources
+C:\Users\Anuradha Sanjeewa\Documents\Vacation Projects\QuarksLibrary\QuarksLibrary\obj\Debug\QuarksLibrary.AboutQIS.resources
+C:\Users\Anuradha Sanjeewa\Documents\Vacation Projects\QuarksLibrary\QuarksLibrary\obj\Debug\QuarksLibrary.UserCheckOut.resources
+C:\Users\Anuradha Sanjeewa\Documents\Vacation Projects\QuarksLibrary\QuarksLibrary\obj\Debug\QuarksLibrary.Splash.resources
+C:\Users\Anuradha Sanjeewa\Documents\Vacation Projects\QuarksLibrary\QuarksLibrary\obj\Debug\QuarksLibrary.Preferences.resources
+C:\Users\Anuradha Sanjeewa\Documents\Vacation Projects\QuarksLibrary\QuarksLibrary\obj\Debug\QuarksLibrary.UpdateLibrary.resources
